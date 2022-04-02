@@ -1,8 +1,7 @@
 <!DOCTYPE html>
   <html>
   <head>
-	  <title>Xem ví dụ</title>
-	  <meta charset="utf-8">
+	  <title>page title</title>
 </head>
 <body>
 	<h1> Xin Chào Các Bạn </h1>
