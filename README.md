@@ -5,9 +5,11 @@
 	  <meta charset="utf-8">
 </head>
 <body>
-	<h1> Xin chào các bạn</h1>
-	<h2> tôi tên là Quốc </h2>
-	<h3> Tôi đang học thiết kế Web</h3>
-	<h4> fb: https://www.facebook.com/HuynhQuoc016 </h4>
+	<h1> Xin Chào Các Bạn </h1>
+	<h2> Tôi Tên Là Huỳnh Trọng Quốc </h2>
+	<h3> Năm sinh: 17/6/2003 </h3>
+	<h4> Trường: Cao Đẳng công Nghệ Kĩ Thuật Nha Trang </h4>
+	<h5> Tôi đang học thiết kế Web </h5>
+	<h6> fb: https://www.facebook.com/HuynhQuoc016 </h6>
 </body>
 </html>
