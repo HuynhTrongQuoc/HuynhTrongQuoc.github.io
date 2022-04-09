@@ -37,7 +37,8 @@
           <td> Thiết kế và quản trị website </td>
           <td> Nghỉ </td>
     </tr>
-   </table>
+   </table> 
+	<h6> Fb:https://www.facebook.com/HuynhQuoc016/ </h6>
 	<form action="http://xuanthulab.net" method="get">
 	<label><h3>Hãy nhập ý kiến nếu bạn có thắc mắc về trang Web của mình :</h3></label><br>
         <input name="name" type="text" value=""><br>
