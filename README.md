@@ -9,7 +9,7 @@
        <body>
 	       <h1 style="color:red"> Giới thiệu bản thân 🙋‍</h1>
 	</body>	
-		     <h2><li> Tôi tên Huỳnh Trọng Quốc 🙋‍♂️</li></h1>
+		     <h2><li> Tôi tên Huỳnh Trọng Quốc 🙋‍♂️</li></h2>
 		     <h2><li> Sinh ngày: 1️⃣7️⃣.0️⃣6️⃣.2️⃣0️⃣0️⃣3️⃣ </li></h2>
 		     <h2><li> Giới tính: Nam 👦</li></h2>
 		     <h2><li> Sống tại: Cam Ranh - Khánh Hòa </li></h2>
