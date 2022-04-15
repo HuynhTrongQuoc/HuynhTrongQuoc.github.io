@@ -47,7 +47,7 @@
     </tr>
    </table> 
       <h2 style="color:red"><li> Hình ảnh bản thân😉😉</li></h2>
-          <img src="ac22a46d1c9fd2c18b8e.jpg" width="500" height="500" />
+          <img src="ac22a46d1c9fd2c18b8e.jpg" width="400" height="400" />
       <h2 style="color:red"> ☎️ Liên hệ 📞</h2>	     
 			     <h2><li> Facebook:https://www.facebook.com/HuynhQuoc016/ 📲 </li></h2>
 			     <h2><li> Số điện thoại: 0374107079 📲 </li></h2>
