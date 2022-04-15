@@ -46,7 +46,7 @@
           <td> Nghỉ </td>
     </tr>
    </table> 
-      <h2 style="color:red"><li> Hình ảnh bản thân😉😉</li></h2>
+      <h2 style="color:blue"><li> Hình ảnh bản thân😉😉</li></h2>
           <img src="ac22a46d1c9fd2c18b8e.jpg" width="300" height="300" />
       <h2 style="color:red"> ☎️ Liên hệ 📞</h2>	     
 			     <h2><li> Facebook:https://www.facebook.com/HuynhQuoc016/ 📲 </li></h2>
@@ -56,6 +56,6 @@
         <input name="name" type="text" value=""><br>
         </form>
 		<input type="submit" name="submit" value="Gửi" />
-        <h1 style="color:red"><marquee>(❁´◡`❁) Xin chào và hẹn gặp lại mọi người (❁´◡`❁)</marquee></h1>
+        <h1 style="color:blue"><marquee>(❁´◡`❁) Xin chào và hẹn gặp lại mọi người (❁´◡`❁)</marquee></h1>
 
 
