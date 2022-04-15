@@ -15,6 +15,7 @@
 		     <h2><li> Sống tại: Cam Ranh - Khánh Hòa </li></h2>
 		     <h2><li> Sở thích: Chơi game 🧘‍♂️ </li></h2>
 		     <h2><li> Đang học tại trường Cao Đẳng Kỹ Thuật Công Nghệ Nha Trang </li></h2>
+		     <h2><li> Trường:<a href="http://cdktcnnt.edu.vn/" style="color:black;"> Cao Đẳng Kỷ Thuật Công Nghệ Nha Trang  </a></li></h2>
 		     <h2><li> Thời khóa biểu 😢</li></h2>
 		     <table border= 1>
 	<table>
