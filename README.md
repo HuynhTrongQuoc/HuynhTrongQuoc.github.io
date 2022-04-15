@@ -59,7 +59,19 @@
         <input name="name" type="text" value=""><br>
         </form>
 		<input type="submit" name="submit" value="Gửi" />
-			     <h2> Bài Hát : Chạy Về Nơi Phía Anh - Khắc Việt </h2>
+<div class="float-contact">
+<button class="chat-zalo">
+<a href="http://zalo.me/0357753734"> ZALO </a>
+</button>
+<button class="chat-facebook">
+<a href= " hhttps://www.facebook.com/MYDUYEN250603/ "target="_blank"> FACEBOOK </a>
+</button>
+<button class="hotline">
+<a href="tel:0357753734">Hotline: 0357753734</a>
+</button>
+</div>
+<font color= Yellow  >
+<h2> Bài Hát : Chạy Về Nơi Phía Anh - Khắc Việt </h2>
 <font>
 <audio src="https://dadaymocan.com/1.mp3" type="audio/mp3" controls </audio>
         <h1 style="color:blue"><marquee>(❁´◡`❁) Xin chào và hẹn gặp lại mọi người (❁´◡`❁)</marquee></h1>
