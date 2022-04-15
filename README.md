@@ -1,7 +1,7 @@
 
   <html>
   <head>
-	  <h1 style="font-family:verdana">(❁´◡`❁)Trang website của Huỳnh Trọng Quốc (❁´◡`❁)</h1>
+	  <h1 style="font-family:verdana">(❁´◡`❁)Trang website của Huỳnh Trọng Quốc (❁´◡`❁)
 	    <meta charset="100">
 </head>
 	     <body style="background-color:green Blue;">
@@ -57,7 +57,5 @@
         </form>
 		<input type="submit" name="submit" value="Gửi" />
         <h1 style="color:red"><marquee>(❁´◡`❁) Xin cảm ơn mọi người (❁´◡`❁)</marquee></h1>
-</body>
-</html>
 
 
