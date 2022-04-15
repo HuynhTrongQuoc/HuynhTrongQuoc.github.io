@@ -1,7 +1,9 @@
 
   <html>
   <head>
-	  <h1 style="font-family:verdana">(❁´◡`❁)Trang website của Huỳnh Trọng Quốc (❁´◡`❁) </h1>
+	  <h1 style="font-family:verdana">(❁´◡`❁)Trang website của Huỳnh Trọng Quốc (❁´◡`❁)</h1>
+	    <meta charset="100">
+</head>
 	     <body style="background-color:green Blue;">
 	     <h1 style="color:red"><center>✌️ Xin chào các bạn✌️✌️ </center></h1>
        <body>
