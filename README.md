@@ -44,15 +44,18 @@
           <td> Nghỉ </td>
     </tr>
    </table> 
-      <h2 style="color:red"><li> Picture😉😉</li></h2>
-			     
-	<h6> Fb:https://www.facebook.com/HuynhQuoc016/ </h6>
+      <h2 style="color:red"><li> Hình ảnh bản thân😉😉</li></h2>
+          <img src="ac22a46d1c9fd2c18b8e.jpg" width="500" height="500" />
+      <h2 style="color:red"> ☎️ Liên hệ 📞</h2>	     
+			     <h2><li> Facebook:https://www.facebook.com/HuynhQuoc016/ 📲 </li></h2>
+			     <h2><li> Số điện thoại: 0374107079 📲 </li></h2>
 	<form action="http://xuanthulab.net" method="get">
 	<label><h3>Hãy nhập ý kiến nếu bạn có thắc mắc về trang Web của mình :</h3></label><br>
         <input name="name" type="text" value=""><br>
 </form>
 	<input type="submit" name="submit" value="Gửi" />
 </form>
+        <h1 style="color:red"><marquee>(❁´◡`❁) Xin cảm ơn mọi người (❁´◡`❁)</marquee></h1>
 </body>
 </html>
 
