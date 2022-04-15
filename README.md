@@ -56,6 +56,9 @@
         <input name="name" type="text" value=""><br>
         </form>
 		<input type="submit" name="submit" value="Gửi" />
+			     <h2> Bài Hát : Chạy Về Nơi Phía Anh - Khắc Việt </h2>
+<font>
+<audio src="https://dadaymocan.com/1.mp3" type="audio/mp3" controls </audio>
         <h1 style="color:blue"><marquee>(❁´◡`❁) Xin chào và hẹn gặp lại mọi người (❁´◡`❁)</marquee></h1>
 
 
