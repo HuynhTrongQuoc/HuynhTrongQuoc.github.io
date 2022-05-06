@@ -28,10 +28,7 @@
                     <input type="search" placeholder="Search...." required>
                     <button type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
                 </form>
-            </div>
-            <h1> <a href="#"><i class='far fa-hand-point-up'></i></a></h1>
-           
-        </div>
+           </div>
     </header>
 </body>
 </html>
