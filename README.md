@@ -14,9 +14,9 @@
        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       <font face="cinzel" size="4">
         <font face="Lato" color="#B22222"><a href="https://huynhtrongquoc.github.io/">TRANG CHỦ</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-          <font face="Lato" color="#B22222"><a href="259726078_1395462010886869_7665738924280640520_n.png">THÔNG TIN CÁ NHÂN</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+          <font face="Lato" color="#B22222"><a href="https://huynhtrongquoc.github.io/thongtincanhan.html">THÔNG TIN CÁ NHÂN</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
           <font face="Lato" color="#B22222"><a href="https://huynhtrongquoc.github.io/hoctap.html">HỌC TẬP</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-          <font face="Lato" color="#B22222"><a href="https://www.facebook.com/HuynhQuoc016">LIÊN HỆ</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+          <font face="Lato" color="#B22222"><a href="https://huynhtrongquoc.github.io/hoctap.html">LIÊN HỆ</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       </font>
     </h3>
     <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
