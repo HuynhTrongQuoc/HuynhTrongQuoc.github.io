@@ -20,6 +20,12 @@
       </font>
     </h3>
     <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+                div class="search-box">
+                <form class="example" action="https://nguyentanhungg.github.io/camon" >
+                    <input type="search" placeholder="Search...." required>
+                    <button type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
+                </form>
+            </div>
     <h1 align="center">
       <font face="Lato" color="#FFFF00" size="7">
           HUỲNH TRỌNG QUỐC
