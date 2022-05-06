@@ -1,62 +1,39 @@
-<html>
-  <head>
-	      <h1 style="font-family:verdana"> (●'◡'●) Trang website đầu tiên của Huỳnh Trọng Quốc (●'◡'●) </h1>
-	  <meta charset="100">
-	
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Trang Chủ</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="https://github.com/nguyentanhungg/nguyentanhungg.github.io/blob/main/NTH.png?raw=true"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
 </head>
-	     <body style="background-color:green Blue;">
-		     <h1 style="color:red"><marquee> ✌️ Xin chào các bạn✌️ </marquee></h1>
-       <body>
-	       <h1 style="color: blue"> Giới thiệu bản thân 🙋‍</h1>
-	</body>	
-		     <h2><li> Tôi tên Huỳnh Trọng Quốc 🙋‍♂️</li></h2>
-		     <h2><li> Sinh ngày: 1️⃣7️⃣.0️⃣6️⃣.2️⃣0️⃣0️⃣3️⃣ </li></h2>
-		     <h2><li> Giới tính: Nam 👦</li></h2>
-		     <h2><li> Sống tại: Cam Ranh - Khánh Hòa </li></h2>
-		     <h2><li> Sở thích: Chơi game 🧘‍♂️ </li></h2>
-		     <h2><li> Đang học tại trường Cao Đẳng Kỹ Thuật Công Nghệ Nha Trang </li></h2>
-		     <h2><li> Trường:<a href="http://cdktcnnt.edu.vn/" style="color:black;"> Cao Đẳng Kỷ Thuật Công Nghệ Nha Trang  </a></li></h2>
-		     <h2><li> Thời khóa biểu 😢</li></h2>
-		     <table border= 1>
-	<table>
-     <tr>
-	  <th><h3 style="color:red"> Thứ ngày</h3></th>
-	  <td><h3> Thứ 2 </h3></td>
-          <td><h3> Thứ 3 </h3></td>
-          <th><h3> Thứ 4 </h3></th>
-          <th><h3> Thứ 5 </h3></th>
-          <th><h3> Thứ 6 </h3></th>
-          <th><h3> Thứ 7 </h3></th>
-     </tr>
-     <tr>
-	  <th><h3 style="color:red"> Sáng </h3></th>
-          <td> Nghỉ </td>
-          <td> Cấu trúc dữ liệu và kĩ thuật </td>
-          <td> Nghỉ </td>
-          <td> Tiếng anh chuyên ngành </td>
-          <td> Cơ sở dữ liệu </td>
-          <td> Thiết kế website </td>
-    </tr>
-    <tr>
-	  <th><h3 style="color:red"> Chiều </h3></th>
-          <td> Lập trình python </td>
-          <td> Lập trình python </td>
-          <td> Lắp ráp và bảo trì máy tính </td>
-          <td> Giáo dục thể chất </td>
-          <td> Thiết kế và quản trị website </td>
-          <td> Nghỉ </td>
-    </tr>
-   </table> 
-      <h2 style="color:blue"><li> Hình ảnh bản thân😉😉</li></h2>
-          <img src="ac22a46d1c9fd2c18b8e.jpg" width="300" height="300" />
-      <h2 style="color:red"> ☎️ Liên hệ 📞</h2>	 
-			     <h2><li> Facebook:https://www.facebook.com/HuynhQuoc016/ 📲 </li></h2>
-			     <h2><li> Số điện thoại: 0374107079 📲 </li></h2>
-	<form action="http://xuanthulab.net" method="get">
-	<label><h3>Hãy nhập ý kiến nếu bạn có thắc mắc về trang Web của mình :</h3></label><br>
-        <input name="name" type="text" value=""><br>
-        </form>
-		<input type="submit" name="submit" value="Gửi" />
-        <h1 style="color:blue"><marquee>(❁´◡`❁) Xin chào và hẹn gặp lại mọi người (❁´◡`❁)</marquee></h1>
+<body>
+    <header>
+        <div class="banner">
+            <div class="navbar">
+                <img src=" https://github.com/HuynhTrongQuoc/HuynhTrongQuoc.github.io/blob/main/c28d016fae546f0a3645.jpg" class="logo">
+                <ul>
+                    <li><a href="https://huynhtrongquoc.github.io/">Trang chủ</a></li>
+                    <li><a href="https://nguyentanhungg.github.io/thongtincanhan">Thông tin cá nhân</a></li>
+                    <li><a href="https://nguyentanhungg.github.io/hoctap">Học Tập</a></li>
+                </ul>
+            </div>
+            <div class="banner-text">
+                <h1>Hello <i class='far fa-hand-peace'></i></h1>
+                <p>Chào mừng các bạn đến với trang web của tôi <i class="fa-solid fa-heart"></i></p>
+                
+            </div>
+            <div class="search-box">
+                <form class="example" action="https://nguyentanhungg.github.io/camon" >
+                    <input type="search" placeholder="Search...." required>
+                    <button type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
+                </form>
+            </div>
+            <h1> <a href="#"><i class='far fa-hand-point-up'></i></a></h1>
+           
+        </div>
+    </header>
+</body>
+</html>
 
 
